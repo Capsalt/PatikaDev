@@ -22,6 +22,6 @@ public class KdvHesapla {
             System.out.println("KDV tutarı: " + (para*kdv));
         }
 
-
+        scan.close();
     }
 }

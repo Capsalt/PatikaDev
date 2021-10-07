@@ -24,6 +24,6 @@ public class NotOrtalama {
             System.out.println("Geçtiniz");
         }else System.out.println("Kaldınız");
 
-
+        scan.close();
     }
 }
